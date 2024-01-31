@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Welcome to Remix!
 
 - [Remix Docs](https://remix.run/docs)
@@ -37,6 +36,7 @@ Make sure to deploy the output of `remix build`
 
 - `build/`
 - `public/build/`
-=======
-# remix-test
->>>>>>> 51343157315dc92bf18c725df1b66ed5c40fb1bf
+
+### Description
+
+This is a quick app made to test Remix, it uses MovieDB API to get info and Prisma with supabase to create a Postgres DB for the comments section to test the forms automatic mutation
